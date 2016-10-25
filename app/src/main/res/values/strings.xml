@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BDU APP</string>
+    <string name="email">Email</string>
+    <string name="emailHint">user@example.com</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="enrolled_courses">Enrolled Courses</string>
+</resources>
